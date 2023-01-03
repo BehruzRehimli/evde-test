@@ -1,29 +1,8 @@
-let maash = [500,700,900,950,1200,1500];
-for (let i = 0; i < maash.length; i++) {
-    console.log(maash[i] + " atib oldu " + maash[i] *1.2);
-    
-}
-let a =  [
-    {
-        id: 1,
-        ad: "Behruz",
-        maash: 900
-    },
-    {
-        id: 2,
-        ad: "Faiq",
-        maash: 700 
-    },
-    {
-        id : 3,
-        ad : "Mubariz",
-        maash : 800
-
-    }
-]
-a.forEach(a => {
-    console.log(a.maash);
-
-});
-
+function fibonacci(n) {
+    return n < 1 ? 0
+         : n <= 2 ? 1
+         : fibonacci(n - 1) + fibonacci(n - 2)
+ }
+ 
+ console.log(fibonacci(4))
 
