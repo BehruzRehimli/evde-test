@@ -1,0 +1,30 @@
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\bin\Debug\net6.0\Kamranın tapşırıqlarından.exe
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\bin\Debug\net6.0\Kamranın tapşırıqlarından.deps.json
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\bin\Debug\net6.0\Kamranın tapşırıqlarından.runtimeconfig.json
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\bin\Debug\net6.0\Kamranın tapşırıqlarından.dll
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\bin\Debug\net6.0\Kamranın tapşırıqlarından.pdb
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.dll
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\refint\Kamranın tapşırıqlarından.dll
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.pdb
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.genruntimeconfig.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\ref\Kamranın tapşırıqlarından.dll
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\bin\Debug\net6.0\Kamranın tapşırıqlarından.exe
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\bin\Debug\net6.0\Kamranın tapşırıqlarından.deps.json
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\bin\Debug\net6.0\Kamranın tapşırıqlarından.runtimeconfig.json
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\bin\Debug\net6.0\Kamranın tapşırıqlarından.dll
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\bin\Debug\net6.0\Kamranın tapşırıqlarından.pdb
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.dll
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\refint\Kamranın tapşırıqlarından.dll
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.pdb
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\Kamranın tapşırıqlarından.genruntimeconfig.cache
+C:\Users\Ziya\Desktop\c#\Kamranın tapşırıqlarından\Kamranın tapşırıqlarından\obj\Debug\net6.0\ref\Kamranın tapşırıqlarından.dll
